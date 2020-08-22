@@ -1,2 +1,2 @@
 # androidanalytics
-android analytics for mangento
+android analytics for magento
